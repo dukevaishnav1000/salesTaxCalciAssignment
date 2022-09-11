@@ -4,4 +4,5 @@
 
 
 **LIVE LINK**
-SALES TAX CALCI[a link](https://dukevaishnav1000.github.io/salesTaxCalciAssignment/)
+
+[SALES TAX CALCI](https://dukevaishnav1000.github.io/salesTaxCalciAssignment/)
