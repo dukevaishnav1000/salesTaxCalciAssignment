@@ -69,7 +69,7 @@ function taxCalci(){
 
 function syntaxChecking(){
 
-    let rawinput=inputarea[0].value;
+    let rawinput=inputarea[0].value.trim();
     console.log(rawinput);
     let x;
     rawinput.split("\n").forEach(input=>{     
