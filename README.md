@@ -7,4 +7,4 @@
 If "Invalid data" error gets displayed even when syntax is correct, then please repaste/retype the data and ensure no special characters exist before or after the entered input .  
 
 **LIVE LINK**
-SALES TAX CALCI[a link]()
+SALES TAX CALCI[a link](https://dukevaishnav1000.github.io/salesTaxCalciAssignment/)
